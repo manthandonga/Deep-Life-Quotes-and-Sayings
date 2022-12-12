@@ -1,16 +1,8 @@
 # deep_life_quotes_and_sayings
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113701720/207004755-c2b17f6b-5e81-4e4a-9d2f-4615eddcd51b.mp4" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/207004796-b3e462cc-425b-45d7-9a96-2e2749a3f55b.jpg" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/207004797-be55204f-e505-4482-9a52-f0049deb2263.jpg" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/207004800-4bb8b676-ab09-444f-8248-b4f8a71dcd66.jpg" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/207004803-7f4be0d0-6ef5-4ca9-bb4d-e03797cfce8f.jpg" height = 500 width = 250>
